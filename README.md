@@ -8,8 +8,8 @@
 Frontend va Backend rivojlantirishga ixtisoslashgan dasturchi.
 
 ## Mening Asosiy Loyihalarim:
-- Weather App: Foydalanuvchilarga ob-havo ma'lumotlarini ko‘rsatish.(https://myweatherapp.com) | [Kod](https://github.com/rustamdev/weather-app)
-- E-commerce Platform: Mahsulotlarni qidirish va xarid qilish. (https://ecommerce.com) | [Kod](https://github.com/rustamdev/ecommerce-platform)
+- Weather App: Foydalanuvchilarga ob-havo ma'lumotlarini ko‘rsatish.(https://myweatherapp.com) |(https://github.com/rustamdev/weather-app)
+- E-commerce Platform: Mahsulotlarni qidirish va xarid qilish. (https://ecommerce.com) |(https://github.com/rustamdev/ecommerce-platform)
 
 <!---
 rustamjon26/rustamjon26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
